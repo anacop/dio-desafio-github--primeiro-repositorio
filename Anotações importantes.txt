@@ -1,0 +1,5 @@
+Link - Documentação Github Desktop: https://docs.github.com/pt/desktop
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Utilizei o comando clone para clonar o repositório do Github para o terminal.
